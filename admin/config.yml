@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: gmatharu/gmatharu.github.io
-  branch: master
+  branch: main
   site_domain: probabilitylearning.netlify.app
 
 media_folder: "images/uploads"

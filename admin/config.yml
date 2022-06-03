@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: probability/gmatharu.github.io
+  repo: gmatharu/gmatharu.github.io
   branch: master
   site_domain: probabilitylearning.netlify.app
 

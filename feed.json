@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NeuroMatch",
+    "description": "",
+    "home_page_url": "https://gmatharu.github.io/probability",
+    "feed_url": "https://gmatharu.github.io/probability/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gagandeep Singh"
+    },
+    "items": [
+        {
+            "id": "https://gmatharu.github.io/probability/human-psychophysics/",
+            "url": "https://gmatharu.github.io/probability/human-psychophysics/",
+            "title": "Human Psychophysics",
+            "summary": "How the stimulus is perceived gives us an idea of how the brain might represent the stimulus.",
+            "content_html": "<p>How the stimulus is perceived gives us an idea of how the brain might represent the stimulus.<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://gmatharu.github.io/probability/media/posts/2/Soma.png\" sizes=\"100vw\" srcset=\"https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-xs.png 300w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-sm.png 480w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-md.png 768w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-lg.png 1024w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-xl.png 1360w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-2xl.png 1600w\"  alt=\"\" width=\"1024\" height=\"544\"></figure>",
+            "author": {
+                "name": "Gagandeep Singh"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-03T18:22:38+03:00",
+            "date_modified": "2022-06-03T18:22:38+03:00"
+        },
+        {
+            "id": "https://gmatharu.github.io/probability/intro-neuromatch/",
+            "url": "https://gmatharu.github.io/probability/intro-neuromatch/",
+            "title": "Intro NeuroMatch",
+            "summary": "Vocabulary Cortex: Brain outer Layer.",
+            "content_html": "<p>Vocabulary</p>\n<ul>\n<li>Cortex: Brain outer Layer.</li>\n</ul>",
+            "author": {
+                "name": "Gagandeep Singh"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-29T14:13:55+03:00",
+            "date_modified": "2022-05-29T15:47:05+03:00"
+        }
+    ]
+}

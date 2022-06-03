@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>NeuroMatch</title>
+    <link href="https://gmatharu.github.io/probability/feed.xml" rel="self" />
+    <link href="https://gmatharu.github.io/probability" />
+    <updated>2022-06-03T18:22:38+03:00</updated>
+    <author>
+        <name>Gagandeep Singh</name>
+    </author>
+    <id>https://gmatharu.github.io/probability</id>
+
+    <entry>
+        <title>Human Psychophysics</title>
+        <author>
+            <name>Gagandeep Singh</name>
+        </author>
+        <link href="https://gmatharu.github.io/probability/human-psychophysics/"/>
+        <id>https://gmatharu.github.io/probability/human-psychophysics/</id>
+
+        <updated>2022-06-03T18:22:38+03:00</updated>
+            <summary>
+                <![CDATA[
+                    How the stimulus is perceived gives us an idea of how the brain might represent the stimulus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>How the stimulus is perceived gives us an idea of how the brain might represent the stimulus.<figure class="post__image post__image--center"><img loading="lazy"  src="https://gmatharu.github.io/probability/media/posts/2/Soma.png" sizes="100vw" srcset="https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-xs.png 300w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-sm.png 480w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-md.png 768w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-lg.png 1024w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-xl.png 1360w ,https://gmatharu.github.io/probability/media/posts/2/responsive/Soma-2xl.png 1600w"  alt="" width="1024" height="544"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Intro NeuroMatch</title>
+        <author>
+            <name>Gagandeep Singh</name>
+        </author>
+        <link href="https://gmatharu.github.io/probability/intro-neuromatch/"/>
+        <id>https://gmatharu.github.io/probability/intro-neuromatch/</id>
+
+        <updated>2022-05-29T15:47:05+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Vocabulary Cortex: Brain outer Layer.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vocabulary</p>
+<ul>
+<li>Cortex: Brain outer Layer.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
